@@ -1,0 +1,6 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+PackageName: covid19js
+PackageOriginator: Jeff R. Stripling
+PackageHomePage: https://github.com/jstripli/covid19
+PackageLicenseDeclared: MIT
